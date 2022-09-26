@@ -1,3 +1,4 @@
+
 # Taxi-service
 
 # Description
@@ -26,4 +27,3 @@
   - Create db structure using script from resources/init_db.sql file. 
   - You need to change the database connection settings such as `name`, `url` and `password`. To do this, go to the 
   `taxi/util/ConnectionUtil` folder and change the parameters we need.
-  - Connect the `Tomcat` and configure it.
